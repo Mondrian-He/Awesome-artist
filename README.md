@@ -1,6 +1,10 @@
 # Awesome-artist
 
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Mondrian-He/Awesome-artist)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Mondrian-He/Awesome-artist)](https://github.com/Mondrian-He/Awesome-artist)
 <img src="https://img.shields.io/badge/Top Conferences -red?style=for-the-badge"> <img src="https://img.shields.io/badge/Artist-purple?style=for-the-badge">  <img src="https://img.shields.io/badge/WorkFlow, Framwork, Table, etc.-pink?style=for-the-badge">
+
 
 > [!Important]
 >
