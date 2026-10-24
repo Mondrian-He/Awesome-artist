@@ -21,6 +21,7 @@
 | :----------: | :----------------------------------------------------------: |
 | NeurIPS 2025 | [Drawing Resources](https://github.com/Mondrian-He/awesome-nips-2025-artist) |
 |  ICLR 2025   | [Drawing Resources](https://github.com/Mondrian-He/awesome-iclr-2025-artist) |
+|  ICML 2026   | [Drawing Resources](https://github.com/Mondrian-He/awesome-icml-2026-artist) |
 |  ICML 2025   | [Drawing Resources](https://github.com/Mondrian-He/awesome-icml-2025-artist) |
 |   ACL 2025   | [Drawing Resources](https://github.com/Mondrian-He/awesome-acl-2025-artist) |
 |  EMNLP 2025  | [Drawing Resources](https://github.com/Mondrian-He/awesome-emnlp-2025-artist) |
