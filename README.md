@@ -29,11 +29,6 @@
 
 </div>
 
-## ⌛Plan
-
-- [ ] We plan to provide top conferences in CV in the future.
-- [ ] We plan to provide the four major top conferences in security in the future.
-
 ## ⭐Star History
 
 <div align="center">
